@@ -16,6 +16,6 @@
 
 https://github.com/nastya-kryhzanivskya/lab4/blob/main/1lab4.ipynb
 
-
+https://github.com/nastya-kryhzanivskya/lab4/blob/main/2lab4.ipynb
 
 Висновок: Попрактикувалась з бібліотекою NumPy, виконала завдання та завантажити їх у репозиторій
